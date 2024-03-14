@@ -1,0 +1,18 @@
+{
+	"name": "desafio3",
+	"version": "1.0.0",
+	"main": "src/App.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "albersteinbruno@gmail.com",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.3",
+		"moment": "^2.30.1"
+	},
+	"keywords": [],
+	"type": "module",
+	"devDependencies": {},
+	"description": "servidor express"
+}

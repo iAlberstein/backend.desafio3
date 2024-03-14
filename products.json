@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Romeo y Julieta",
+    "description": "Tragedia romántica de William Shakespeare.",
+    "price": 4000,
+    "image": "url",
+    "code": "p001",
+    "stock": 446
+  },
+  {
+    "id": 2,
+    "title": "Hamlet",
+    "description": "Tragedia de William Shakespeare sobre el príncipe de Dinamarca.",
+    "price": 7000,
+    "image": "url",
+    "code": "p002",
+    "stock": 446
+  },
+  {
+    "id": 3,
+    "title": "La Casa de Bernarda Alba",
+    "description": "Tragedia de Federico García Lorca.",
+    "price": 2500,
+    "image": "url",
+    "code": "p003",
+    "stock": 446
+  },
+  {
+    "id": 4,
+    "title": "Esperando a Godot",
+    "description": "Obra de teatro del escritor irlandés Samuel Beckett.",
+    "price": 4500,
+    "image": "url",
+    "code": "p004",
+    "stock": 446
+  },
+  {
+    "id": 5,
+    "title": "Don Juan Tenorio",
+    "description": "Drama romántico de José Zorrilla.",
+    "price": 1000,
+    "image": "url",
+    "code": "p005",
+    "stock": 446
+  },
+  {
+    "id": 6,
+    "title": "La Celestina",
+    "description": "Tragicomedia del siglo XV.",
+    "price": 1500,
+    "image": "url",
+    "code": "p006",
+    "stock": 446
+  },
+  {
+    "id": 7,
+    "title": "La vida es sueño",
+    "description": "Obra de teatro de Calderón de la Barca.",
+    "price": 3000,
+    "image": "url",
+    "code": "p007",
+    "stock": 446
+  },
+  {
+    "id": 8,
+    "title": "La Casa de los Espíritus",
+    "description": "Basada en la novela de Isabel Allende.",
+    "price": 3500,
+    "image": "url",
+    "code": "p008",
+    "stock": 446
+  },
+  {
+    "id": 9,
+    "title": "Fausto",
+    "description": "Tragedia de Goethe.",
+    "price": 6500,
+    "image": "url",
+    "code": "p009",
+    "stock": 446
+  },
+  {
+    "id": 10,
+    "title": "Un tranvía llamado deseo",
+    "description": "Obra de Tennessee Williams.",
+    "price": 4500,
+    "image": "url",
+    "code": "p0010",
+    "stock": 446
+  }
+]
